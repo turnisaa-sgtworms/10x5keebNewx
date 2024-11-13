@@ -26,25 +26,33 @@
     {
       "c": "#cccccc"
     },
-    "q",
-    "w",
-    "e",
-    "r",
+    "q\n\n\n\n\n\nf1",
+    "w\n\n\n\n\n\nf2",
+    "e\n\n\n\n\n\nf3",
+    "r\n\n\n\n\n\nf4",
     "t",
     "y",
     "u",
-    "i\n\n\n\n\n\n[{",
-    "o\n\n\n\n\n\n]}",
+    "i\n\n\n\n\n\n,<",
+    "o\n\n\n\n\n\n.>",
     "p\n\n\n\n\n\n\\|"
   ],
   [
-    "`~\n\n\n\n\n\nf1",
-    "a\n\n\n\n\n\nf2",
-    "s\n\n\n\n\n\nf3",
-    "d\n\n\n\n\n\nf4",
-    "f\n\n\n\n\n\nf5",
-    "g\n\n\n\n\n\nf6",
+    {
+      "x": 0.5
+    },
+    "a\n\n\n\n\n\nf5",
+    "s\n\n\n\n\n\nf6",
+    "d\n\n\n\n\n\nf7",
+    {
+      "n": true
+    },
+    "f\n\n\n\n\n\nf8",
+    "g",
     "h\n\n\n\n\n\n;:",
+    {
+      "n": true
+    },
     "j\n\n\n\n\n\n'\"",
     "k\n\n\n\n\n\n-_",
     "l\n\n\n\n\n\n=+"
@@ -54,18 +62,18 @@
       "c": "#544f51",
       "t": "#dddddd"
     },
-    "shft\n\n\n\n\n\nf7",
+    "shft",
     {
       "c": "#cccccc",
       "t": "#000000"
     },
-    "z\n\n\n\n\n\nf8",
-    "x\n\n\n\n\n\nf9",
-    "c\n\n\n\n\n\nf10",
-    "v\n\n\n\n\n\nf11",
-    "b\n\n\n\n\n\nf12",
-    "n\n\n\n\n\n\n,<",
-    "m\n\n\n\n\n\n.>",
+    "z\n\n\n\n\n\nf9",
+    "x\n\n\n\n\n\nf10",
+    "c\n\n\n\n\n\nf11",
+    "v\n\n\n\n\n\nf12",
+    "b",
+    "n\n\n\n\n\n\n[{",
+    "m\n\n\n\n\n\n]}",
     {
       "c": "#7eb639"
     },
@@ -89,7 +97,8 @@
     "",
     {
       "c": "#7eb639",
-      "a": 4
+      "a": 4,
+      "n": true
     },
     "fn1",
     {
