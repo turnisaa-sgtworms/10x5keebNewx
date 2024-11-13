@@ -1,0 +1,4 @@
+newxKeebLayout.png and newx10x5.json from https://www.keyboard-layout-editor.com/#/
+
+using guide: https://wiki.ai03.com/books/pcb-design/
+
