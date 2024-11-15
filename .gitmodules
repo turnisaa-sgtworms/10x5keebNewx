@@ -10,3 +10,6 @@
 [submodule "MX_V2"]
 	path = MX_V2
 	url = https://github.com/fami-fish/MX_V2
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib
