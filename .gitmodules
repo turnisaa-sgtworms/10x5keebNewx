@@ -7,3 +7,6 @@
 [submodule "key-switches.pretty"]
 	path = key-switches.pretty
 	url = https://github.com/siderakb/key-switches.pretty
+[submodule "MX_V2"]
+	path = MX_V2
+	url = https://github.com/fami-fish/MX_V2
